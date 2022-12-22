@@ -1,6 +1,10 @@
+<h2>Hello World, I'm an eccentric person who enjoys coding 👋</h2>
+<h3>[Junior] Backend Developer / Data Analysis / Data Engineering / Deep Learning </h3>
+<ul><li>I study programming on my own, and passionate enough to use it to write my paper</li>
+<li>I'm willing to learn. I always enjoy learning</li>
+<li>I am a good at learning and has excellent application skills</li>
+<li>I have research experience during my master's degree and am planning to submit my paper to the SCIE Journal</li></ul>
 <div align="center">
-    <h2>안녕하세요, 코딩하는거 재밌어하는 엉뚱한 사람입니다 👋</h2>
-    <h3>[Junior] Backend Developer / Data Analysis / Data Engineering / Deep Learning </h3>
     <h1>Language</h1>
     <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=TYPESCRIPT&logoColor=white"/>
     <h1>Library</h1>
@@ -10,18 +14,3 @@
     <h1>Etc</h1>
     <img src="https://img.shields.io/badge/-VSCODE-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/> <img src="https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=GITHUB&logoColor=181717"/> <img src="https://img.shields.io/badge/-GITLAB-white?style=for-the-badge&logo=GITLAB"/> <img src="https://img.shields.io/badge/-Vegas-white?style=for-the-badge&logo=Sony&logoColor=black"/> <img src="https://img.shields.io/badge/-Youtube-white?style=for-the-badge&logo=Youtube&logoColor=FF0000"/>
 </div>
-
-<!--
-**KongTi/KongTi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
