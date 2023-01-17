@@ -1,4 +1,5 @@
 <h2>Hello World, I'm an eccentric person who enjoys coding 👋</h2>
+<h3>Blog: https://kongti.github.io/</h3>
 <h3>[Junior] Backend Developer / Data Analysis / Data Engineering / Deep Learning </h3>
 <ul><li>I study programming on my own, and passionate enough to use it to write my paper</li>
 <li>I'm willing to learn. I always enjoy learning</li>
